@@ -13,7 +13,7 @@ Created on Thu Feb  9 11:39:39 2023
 
 @author: venkat
 """
-# Hello Venkat
+
 import numpy as np
 from matplotlib import pyplot as plt
 from patchify import patchify
